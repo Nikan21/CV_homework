@@ -42,37 +42,33 @@ body {
   text-align: center;
 }
 
-.bjorn{
-    display: inline-block;
-    height: 250px;
-    width: 250px;
-    border-radius: 50%;
-    object-fit: cover;
-    margin-left: 34%;
-    max-width: 250px;
-    min-width: 250px;
+.bjorn {
+  display: block;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: auto auto;
 }
 
-.h3_bjorn{
-    text-align: center;
+.h3_bjorn {
+  text-align: center;
 }
 
 .h1_ivar {
-    text-align: center;
-  }
-  
-  .ivar{
-      display: inline-block;
-      height: 250px;
-      width: 250px;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: top;
-      margin-left: 34%;
-      max-width: 250px;
-      min-width: 250px;
-  }
-  
-  .h3_ivar{
-      text-align: center;
-  }
+  text-align: center;
+}
+
+.ivar {
+  display: block;
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: top;
+  margin: auto auto;
+}
+
+.h3_ivar {
+  text-align: center;
+}
